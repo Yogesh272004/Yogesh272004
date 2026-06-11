@@ -161,10 +161,14 @@ Cloud Computing  ████████░░░░░░░░░░░ 40%
 
 ## 💭 Random Dev Quote
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<h2 align="center">💡 My Philosophy</h2>
 
+<p align="center">
+<i>
+"Consistency beats talent when talent doesn't work hard.<br>
+Every line of code, every bug fixed, and every problem solved brings me one step closer to becoming a great engineer."
+</i>
+</p>
 ---
 
 ## ⚡ Fun Fact
