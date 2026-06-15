@@ -174,7 +174,7 @@ const yogesh = {
     technologies: ["React", "Node.js", "MongoDB"],
     cloud: ["AWS", "GCP"],
     hobbies: ["Coding", "Hackathons", "Learning"],
-    goal: "Software Engineer @ Top Product Company"
+    goal: "Software Engineer "
 };
 ```
 
